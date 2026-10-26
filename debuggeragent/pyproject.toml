@@ -4,9 +4,9 @@ version = "0.1.0"
 description = "Python debugger agent with local LLM support"
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {text = "GNU"}
 authors = [
-    {name = "Canaan", email = "canaan@example.com"}
+    {name = "Opinionated", email = "opinionatedtutorials@gmail.com"}
 ]
 keywords = ["debugger", "llm", "ollama", "ai", "debugging"]
 classifiers = [
