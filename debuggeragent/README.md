@@ -168,4 +168,4 @@ debuggeragent/
 
 ## License
 
-MIT
+GNU
